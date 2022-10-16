@@ -10015,6 +10015,26 @@ John is a casual worker,he can't find a proper job.
 John is a casual worker,he can't find a proper job.
 John is a casual worker,he can't find a proper job.
 
+casual casual casual casual casual
+casual casual casual casual casual
+casual casual casual casual casual
+casual casual casual casual casual
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+
+casual casual casual casual casual
+casual casual casual casual casual
+casual casual casual casual casual
+casual casual casual casual casual
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+John is a casual worker,he can't find a proper job.
+
 
 casual casual casual casual casual
 casual casual casual casual casual
@@ -10830,6 +10850,16 @@ She couldn't resist langhing at him in those clothes.
 distinct 截然不同的
 distinct distinct distinct distinct distinct
 distinct distinct distinct distinct distinct
+distinct distinct distinct distinct distinct
+distinct distinct distinct distinct distinct
+Those two ideas are quite distinct from each other.
+Those two ideas are quite distinct from each other.
+Those two ideas are quite distinct from each other.
+Those two ideas are quite distinct from each other.
+Those two ideas are quite distinct from each other.
+
+distinct distinct distinct distinct distinct
+distinct distinct distinct distinct distinct
 distinct distinct distinct distinct distinct 
 distinct distinct distinct distinct distinct
 Those two ideas are quite distinct from each other.
@@ -11522,6 +11552,26 @@ The seed has a hard exterior covering.
 The seed has a hard exterior covering.
 
 exterior exterior exterior exterior exterior
+exterior exterior exterior exterior exterior
+exterior exterior exterior exterior exterior
+exterior exterior exterior exterior exterior
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+
+exterior exterior exterior exterior exterior
+exterior exterior exterior exterior exterior
+exterior exterior exterior exterior exterior
+exterior exterior exterior exterior exterior
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+The seed has a hard exterior covering.
+
+exterior exterior exterior exterior exterior
 exterior exterior exterior exterior exterior 
 exterior exterior exterior exterior exterior
 exterior exterior exterior exterior exterior
@@ -11642,10 +11692,40 @@ exclusive exclusive exclusive exclusive exclusive
 The bathroom is for President exclusive use.
 The bathroom is for President exclusive use.
 The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is ofr President exclusive use.
+
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
 The bathroom is for Persident exclusive use.
 The bathroom is for Persident exclusive use.
 
 immigrant 移民
+immigrant immigrant immigrant immigrant immigrant
+immigrant immigrant immigrant immigrant immigrant
+immigrant immigrant immigrant immigrant immigrant
+immigrant immigrant immigrant immigrant immigrant
+Mnay residents in this area are new immigrants.
+Many residents in this area are new immigrants.
+Many residents in this area are new immigrants.
+Many residents in this area are new immigrants.
+Many residents in this area are new immigrants.
+
 immigrant immigrant immigrant immigrant immigrant
 immigrant immigrant immigrant immigrant immigrant
 immigrant immigrant immigrant immigrant immigrant
@@ -11657,6 +11737,16 @@ Many residents in this area are new immigrants.
 Many residents in this area are new immigrants.
 
 immense 广大的
+immense immense immense immense immense
+immense immense immense immense immense
+immense immense immense immense immense
+immense immense immense immense immense
+John felt an immense gratitude to Wilson.
+John felt an immense gratitude to Wilson.
+John felt an immense gratitude to Wilson.
+John felt an immense gratitude to Wilson.
+John felt an immense gratitude to Wilson.
+
 immense immense immense immense immense 
 immense immense immense immense immense
 immense immense immense immense immense
@@ -11678,7 +11768,27 @@ He that boasts of his knowledge proclaims his ignorance.
 He that boasts of his knowledge proclaims his ignorance.
 He that boasts of his knowledge proclaims his ignorance.
 
+ignorance ignorance ignorance ignorance ignorance
+ignorance ignorance ignorance ignorance ignorance
+ignorance ignorance ignorance ignorance ignorance
+ignorance ignorance ignorance ignorance ignorance
+He that boasts of his knowledge proclaims his ignorance.
+He that boasts of his knowledge proclaims his ignorance.
+He that boasts of his knowledge proclaims his ignorance.
+He that boasts of his knowledge proclaims his ignorance.
+He that boasts of his knowledge proclaims his ignorance.
+
 idle 虚度
+idle idle idle idle idle
+idle idle idle idle idle
+idle idle idle idle idle
+idle idle idle idle idle
+If one idles away his time,youth will fade away and life will run out on him.(Hugo)
+If one idles away his time,youth will fade away and life will run out on him.(Hugo)
+If one idles away his time,youth will fade away and life will run out on him.(Hugo)
+If one idles away his time,youth will fade away and life will run out on him.(Hugo)
+If one idles away his time,youth will fade away and life will run out on him.(Hugo)
+
 idle idle idle idle idle 
 idle idle idle idle idle
 idle idle idle idle idle
@@ -11690,6 +11800,16 @@ If one idles away his time,youth will fade away and life will run out on him.(Hu
 If one idels away his time,youth will fade away and life will run out on him.(Hugo)
 
 fundamental 基础的
+fundamental fundamental fundamental fundamental fundamental
+fundamental fundamental fundamental fundamental fundamental
+fundamental fundamental fundamental fundamental fundamental
+fundamental fundamental fundamental fundamental fundamental
+The fundamental cause of his success is his hard work.
+The fundamental cause of his success is his hard work.
+The fundamental cause of his success is his hard work.
+The fundamental cause of his success is his hard work.
+The fundamental cause of his success is his hard work.
+
 fundamental fundamental fundamental fundamental fundamental
 fundamental fundamental fundamental fundamental fundamental
 fundamental fundamental fundamental fundamental fundamental
@@ -11708,6 +11828,16 @@ The fundamental cause of his success is his hard work.
 The fundamental cause of his success is his hard work.
 
 fulfill 履行
+fulfill fulfill fulfill fulfill fulfill
+fulfill fulfill fulfill fulfill fulfill
+fulfill fulfill fulfill fulfill fulfill
+fulfill fulfill fulfill fulfill fulfill
+You must fulfill your promise
+You must fulfill your promise
+You must fulfill your promise
+You must fulfill your promise
+You must fulfill your promise
+
 fulfill fulfill fulfill fulfill fulfill
 fulfill fulfill fulfill fulfill fulfill
 fulfill fulfill fulfill fulfill fulfill
@@ -11733,6 +11863,26 @@ formula formula formula formula formula
 formula formula formula formula formula
 formula formula formula formula formula
 formula formula formula formula formula
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+
+formula formula formula formula formula
+formula formula formula formula formula 
+formula formula formula formula formula
+formula formula formula formula formula
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+A formula for settling the border dispute has been worked out.
+
+formula formula formula formula formula
+formula formula formula formula formula
+formula formula formula formula formula
+formula formula formula formula formula
 Do you have a good formula.
 Do you have a good formula.
 Do you hvae a good formula.
@@ -11744,13 +11894,43 @@ format format format format format
 format format format format format
 format format format format format
 format format format format format
-The format you entered is incorrect.
-The format you entered is incorrect.
-The format you entered is incorrect.
-The format you entered is incorrect.
-The format you entered is incorrect.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+
+format format format format format	
+format format format format format
+format format format format format
+format format format format format
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+
+format format format format format
+format format format format format
+format format format format format
+format format format format format
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
+The format of the figure is very tasteful.
 
 folk 民间的
+folk folk folk folk folk
+folk folk folk folk folk
+folk folk folk folk folk
+folk folk folk folk folk
+He will be appearing at the Newport folk festival.
+He will be appearing at the Newport folk festival.
+He will be appearing at the Newport folk festival.
+He will be appearing at the Newport folk festival.
+He will be appearing at the Newport folk festival.
+
 folk folk folk folk folk 
 folk folk folk folk folk
 folk folk folk folk folk
