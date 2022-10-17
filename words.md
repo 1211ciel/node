@@ -11336,6 +11336,16 @@ You might enroll your child in public speaking to build confidence.
 You might enroll your child in public speaking to build confidence.
 You might enroll your child in public speaking to build confidence.
 
+enroll enroll enroll enroll enroll
+enroll enroll enroll enroll enroll
+enroll enroll enroll enroll enroll
+enroll enroll enroll enroll enroll
+You might enroll your child in public speaking to build confidence.
+You might enroll your child in public speaking to build confidence.
+You might enroll your child in public speaking to build confidence.
+You might enroll your child in public speaking to build confidence.
+You might enroll your child in public speaking to build confidence.
+
 equivalent 等同的
 equivalent equivalent equivalent equivalent equivalent
 equivalent equivalent equivalent equivalent equivalent
@@ -11490,6 +11500,16 @@ She continued to have severe stomachaches,fatigue,and depression.
 She continued to have severe stomachaches,fatigue,and depression.
 
 facilitate 促进
+facilitate faciiltate facilitate facilitate facilitate
+facilitate facilitate facilitate facilitate facilitate
+facilitate facilitate facilitate facilitate facilitate
+facilitate facilitate facilitate facilitate facilitate
+Good tools facilitate the job.
+Good tools facilitate the job.
+Good tools facilitate the job.
+Good tools facilitate the job.
+Good tools facilitate the job.
+
 facilitate facilitate facilitate facilitate facilitate
 facilitate facilitate facilitate facilitate facilitate
 facilitate facilitate facilitate facilitate facilitate
@@ -11685,6 +11705,16 @@ His parents have great expectations for his future.
 His paretns have great expectations for his future.
 
 exclusive 独有的
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+exclusive exclusive exclusive exclusive exclusive
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+The bathroom is for President exclusive use.
+
 exclusive exclusive exclusive exclusive exclusive
 exclusive exclusive exclusive exclusive exclusive
 exclusive exclusive exclusive exclusive exclusive
@@ -11941,3 +11971,142 @@ He will be appearing at the Newport folk festival.
 He will be appearing at the Newport folk festival.
 He will be appearing at the Newport folk festival.
 
+knowledgeable 博学的
+knowledgeable knowledgeable knowledgeable knowledgeable knowledgeable
+knowledgeable knowledgeable knowledgeable knowledgeable knowledgeable
+knowledgeable knowledgeable knowledgeable knowledgeable knowledgeable
+knowledgeable knowledgeable knowledgeable knowledgeable knowledgeable
+We employ friendly and knowledgeable staff.
+We employ friendly and knowledgeable staff.
+We employ friendly and knowledgeable staff.
+We employ friendly and knowledgeable staff.
+We employ friendly and knowledgeable staff.
+
+journalism 新闻工作
+journalizm journalizm journalizm journalizm journalizm
+journalizm journalizm journalizm journalizm journalizm
+journalizm journalizm journalizm journalizm journalizm
+journalizm journalizm journalizm journalizm journalizm
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+
+journalizm journalizm journalizm journalizm journalizm
+journalizm journalizm journalizm journalizm journalizm
+journalizm journalizm journalizm journalizm journalizm
+journalizm journalizm journalizm journalizm journalizm
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+I plan to go into journalizm when I leave college.
+
+jewel 珍宝
+jewel jewel jewel jewel jewel 
+jewel jewel jewel jewel jewel
+jewel jewel jewel jewel jewel
+jewel jewel jewel jewel jewel
+He examined the jewel with minuteness.
+He examined the jewel with minuteness.
+He examined the jewel with minuteness.
+He exmained the jewel with minuteness.
+He exmained the jewel with minuteness.
+
+internal 内部的
+internal internal internal internal internal
+internal internal internal internal internal
+internal internal internal internal internal
+internal internal internal internal internal
+We should make an internal inquiry to find out who is responsible for the it.
+We should make an internal inquiry to find out who is responsible for the it.
+We should make an internal inquiry to find out who is responsible for the it.
+We should make an internal inquiry to find out who is responsible for the it.
+We should make an internal inquiry to find out who is responsible for the it.
+
+interact 相互作用
+interact interact interact interact interact
+interact interact interact interact interact
+interact interact interact interact interact
+interact interact interact interact interact
+What has changed is that they face pressure to interact with their devices.
+What has changed is that they face pressure to interact with their devices.
+What has changed is that they face pressure to interact with their devices.
+What has changed is that they face pressure to interact with their devices.
+What has changed is that they face pressure to interact with their devices.
+
+intention 意图
+intention intention intention intention intention
+intention intention intention intention intention
+intention intention intention intention intention
+intention intention intention intention intention
+He went to Paris with the intention of learning French.
+He want to Paris with the intention of learning French.
+He want to Paris with the intention of learning French.
+He want to Paris with the intention of learning French.
+He want to Paris with the intention of learning French.
+
+initiative 主动性
+initiative initiative initiative initiative initiative
+initiative initiative initiative initiative initiative
+initiative initiative initiative initiative initiative
+initiative initiative initiative initiative initiative
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promoting health insurance scheme.
+
+initiative initiative initiative initiative initiative
+initiative initiative initiative initiative initiative
+initiative initiative initiative initiative initiative
+initiative initiative initiative initiative initiative
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promoting health insurance scheme.
+They have taken the initiative in promiting health insurance scheme.
+THey have taken the initiative in promiting health insurance scheme.
+
+initial 最初的，开始的
+initial initial initial initial initial 
+initial initial initial initial initial 
+initial initial initial initial initial
+initial initial initial initial initial
+You can open a savings account at any time with an initial deposit of 5 dollars.
+You can open a savings account at any time with an initial deposit of 5 dollars.
+You can open a savings account at any time with an initial deposit of 5 dollars.
+You can open a savings account at any time with an initial deposit of 5 dollars.
+You can open a savings account at any time with an initial deposit of 5 dollars.
+
+indifferent 不关心的
+indifferent indifferent indifferent indifferent indifferent
+indifferent indifferent indifferent infidderent indifferent
+indifferent indifferent indifferent indifferent indifferent
+indifferent indifferent indifferent indifferent indifferent
+She is quite indifferent to other people's suffering.
+She is quite indifferent to other people's suffering.
+She is quite indifferent to other people's suffering.
+She is quite indifferent to other poeple's suffering.
+She is quite indifferent to other people's suffering.
+
+implicit 含蓄的
+implicit implicit implicit implicit implicit 
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
