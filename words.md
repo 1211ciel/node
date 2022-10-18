@@ -419,7 +419,6 @@ In 1929 he took a job as a seaman.
 3. temper 脾气  the tendency to become angry very quickly
 4. appetite 食欲  the feeling that you want to eat food
 	- appetite appetite appetite appetite appetite
-5. symptom 症状  any feeling of illness or physical or mental change that is caused by a particular disease
 6. suffer  遭受  to experience physical or mental pain
 7. undertake  保证 to do or begin to do something, especially something that will take a long time or be difficult
 8. entitle 以...为名  to give someone the right to do or have something:
@@ -10505,6 +10504,16 @@ consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+
+consistent consistent consistent consistent consistent
+consistent consistent consistent consistent consistent
+consistent consistent consistent consistent consistent
+consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
 What he does is not consistent with what he says.
 What he does is not consistent with what he says.
@@ -10565,6 +10574,16 @@ What he does is not consistent with what he says.
 What he does is not consistent with what he says.
 
 curse 咒语
+curse curse curse curse curse
+curse curse curse curse curse 
+curse curse curse curse curse
+curse curse curse curse curse
+There is a curse on this family.
+There is a curse on this family.
+There is a curse on this family.
+There is a curse on this family.
+There is a curse on this family.
+
 curse curse curse curse curse
 curse curse curse curse curse
 curse curse curse curse curse
@@ -11645,6 +11664,16 @@ They own extensive land by the ocean.
 extensive extensive extensive extensive extensive
 extensive extensive extensive extensive extensive
 extensive extensive extensive extensive extensive
+extensive extensive extensive extensive extensive
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+
+extensive extensive extensive extensive extensive
+extensive extensive extensive extensive extensive
+extensive extensive extensive extensive extensive
 extensive extensive extensive extensive exntesive
 They own extensive land by the ocean.
 They own extensive land by the ocean.
@@ -12091,6 +12120,16 @@ She is quite indifferent to other poeple's suffering.
 She is quite indifferent to other people's suffering.
 
 implicit 含蓄的
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+implicit implicit implicit implicit implicit
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+Her attitude was implicit in the answer she gave us.
+
 implicit implicit implicit implicit implicit 
 implicit implicit implicit implicit implicit
 implicit implicit implicit implicit implicit
@@ -12110,3 +12149,145 @@ Her attitude was implicit in the answer she gave us.
 Her attitude was implicit in the answer she gave us.
 Her attitude was implicit in the answer she gave us.
 Her attitude was implicit in the answer she gave us.
+
+view 观看
+view view view view view
+view view view view view
+view view view view view
+view view view view view
+The mountain is best viewed from the north side.
+The mountain is best viewed from the north side.
+The mountain is best viewed from the north side.
+The mountain is best viewed from the north side.
+The mountain is best viewed from the north side.
+
+physical 身体的
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+
+industry 企业
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
+It should be something our whole industry adopts.
+It should be something our whole industry adopts.
+It should be something our whole industry adopts.
+It should be something our whole industry adopts.
+It should be something our whole industry adopts.
+
+given 考虑到
+given given given given given
+given given given given given
+given given given given given
+given given given given given
+Given their inexperience,they have done a good job.
+Given their inexperience,they have done a good job.
+Given their inexperience,they have done a good job.
+Given their inexperience,they have done a good job.
+Given their inexperience,they have done a good job.
+
+fall 落下
+fall fall fall fall fall
+fall fall fall fall fall
+fall fall fall fall fall
+fall fall fall fall fall
+Bombs fell on the town.
+Bombs fell on the town.
+Bombs fell on the town.
+Bombs fell on the town.
+Bombs fell on the town.
+
+environment 环境
+environment environment environment environment environment
+environment environment environment environment environment
+environment environment environment environment environment
+environment environment environment environment environment
+Genes and environment interact to influence psychological activity.
+Genes and environment interact to influence psychological activity.
+Genes and environment interact to influence psychological activity.
+Genes and environment interact to influence psychological activity.
+Genes and environment interact to influence psychological activity.
+
+digital 数字的
+digital digital digital digital digital
+digital digital digital digital digital
+digital digital digital digital digital
+ditigal digital digital digital digital
+He has a digital watch.
+He has a digital watch.
+He has a digital watch.
+He has a digital watch.
+He has a digital watch.
+
+decline 拒绝
+decline decline decline decline
+decline decline decline decline
+decline decline decline decline
+decline decline decline decline
+Ma'am,I'm sorry but your credit card has been decline.
+Ma'am,I'm sorry but your credit card has been decline.
+Ma'am,I'm sorry but your credit card has been decline.
+Ma'am,I'm sorry but your credit card has been decline.
+Ma'am,I'm sorry but your credit card has been decline.
+
+course 进程
+course course course course course
+course course course course course 
+course course course course course
+course course course course course
+It was one of those ideas that change the course of history.
+It was one of those ideas that change the course of history.
+It was one of those ideas that change the course of history.
+It was one of those ideas that change the course of history.
+It was one of those ideas that change the course of history.
+
+career 职业
+career career career career career 
+career career career career career
+career career career career career
+career career career career career
+Young as I am,I already know what career I want to follow.
+Young as I am,I already know what career I want to follow.
+Young as I am,I already know what career I want to follow.
+Young as I am,I already konw what career I want to follow.
+Young as I am,I already konw what career I want to follow.
+
+opponent 对手
+opponent opponent opponent opponent opponent
+opponent opponent opponent opponent opponent
+opponent opponent opponent opponent opponent
+opponent opponent opponent opponent opponent
+She is one of the strongest opponent of tax reform.
+She is one of the strongest opponent of tax reform.
+She is one of the strongest opponent of tax reform.
+She is one of the strongest opponent of tax reform.
+She is one of the strongest opponent of tax reform.
+
+commit 干
+commit commit commit commit commit 
+commit commit commit commit commit
+commit commit commit commit commit
+commit commit commit commit commit
+He committed suicide rather than sell out to the enemy.
+He committed suicide rather than sell out to the enemy.
+He committed suicide rather than sell out to the enemy.
+He committed suicide rather than sell out to the enemy.
+He committed suicide rather than sell out to the enemy.
