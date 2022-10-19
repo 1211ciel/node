@@ -1,12 +1,12 @@
-My Flag		[linkFlag]
-Go		[linkGo]
+My Flag		[l001]
+Go		[l002]
 Web		[linkWeb]
 System		[linkSystem]
 English		[linkenglish]
 Vim 		[linkVim]
 
 ----------------------------------------------------------------------------
-My Flag	[linkFlag]
+My Flag	[l001]
 - BookRead v1(ok)
 - EnglishStudy v1(ing)
 - TimeLine
@@ -14,7 +14,7 @@ My Flag	[linkFlag]
 - WriteBook
 - JapaneseStudy
 ----------------------------------------------------------------------------
-Go	[linkGo]
+Go	[l002]
 
 Install golang			[InstallGolang]
 Goland http上传文件		[GolandUploadFile]
@@ -218,12 +218,11 @@ css定位	[linkCssPosition]
 
 
 ----------------------------------------------------------------------------
-Vim [linkVim]
-
-Vim 文件加密解密 [linkVimEncrypt]
+Vim 	[linkVim]
+Vim 文件加密解密 	[linkVimEncrypt]
 
 ----------------------------------------------------------------------------
-Vim 文件加密解密 [linkVimEncrypt]
+Vim 文件加密解密 	[linkVimEncrypt]
 ```
 encrypt
 :X

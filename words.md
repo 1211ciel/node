@@ -10472,6 +10472,16 @@ Running along the corridors was strictly forbidden at school.
 consistent 一致的
 consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
+consistent consistent consistent consistent consistent 
+consistent consistent consistent consistent consistent 
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+What he does is not consistent with what he says.
+
+consistent consistent consistent consistent consistent
+consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
 consistent consistent consistent consistent consistent
 What he does is not consistent with what he says.
@@ -12182,6 +12192,16 @@ Walking is the best exercise for regular physical activity.
 Walking is the best exercise for regular physical activity.
 Walking is the best exercise for regular physical activity.
 
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+
 industry 企业
 industry industry industry industry industry
 industry industry industry industry industry
@@ -12291,3 +12311,131 @@ He committed suicide rather than sell out to the enemy.
 He committed suicide rather than sell out to the enemy.
 He committed suicide rather than sell out to the enemy.
 He committed suicide rather than sell out to the enemy.
+
+muscle 肌肉、实力
+muslce muscle muscle muscle muscle muscle
+muscle muscle muscle muscle muscle muscle
+muscle muscle muscle muscle muscle muscle
+muscle muscle muscle muscle muscle muscle
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+
+muscle muscle muscle muscle muscle muscle
+muscle muscle muscle muscle muscle muscle
+muscle muscle muscle muscle muscle muscle
+muscle muscle muscle muscle muscle muscle
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+He has well developed muscles in his arms.
+
+moderate 缓和、节制
+moderate moderate moderate moderate moderate
+moderate moderate moderate moderate moderate
+moderate moderate moderate moderate moderate
+moderate moderate moderate mdoerate moderate
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+
+moderate moderate moderate moderate moderate
+moderate moderate moderate moderate moderate
+moderate moderate moderate moderate moderate
+moderate moderate moderate moderate moderate
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+
+moderate moderate moderate moderate moderate 
+moderate moderate moderate moderate moderate 
+moderate moderate moderate moderate moderate
+moderate moderate moderate moderate moderate 
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The demenstrators have moderated their demands.
+The domenstraotrs have moderated their demands.
+
+mislead 误导
+mislead mislead mislead mislead mislead 
+mislead mislead mislead mislead mislead
+mislead mislead mislead mislead mislead
+mislead mislead mislead mislead mislead
+Don't be mislead into thinking that scientific research is easy.
+Don't be mislead into thinking that scientific research is easy.
+Don't be mislead into thinking that scientific research is easy.
+Don't be mislead into thinking that sicentific research is easy.
+Don't be mislead into thinking that sicentific research is easy.
+
+mature 成熟
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+
+mature mature mature mature mature 
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+
+marine 航海的
+marine marine marine marine marine
+marine marine marine marine marine
+marine marine marine marine marine
+marine marine marine marine marine
+Are there any other clauses in marine policies?
+Are there any other clauses in marine policies?
+Are there any other clauses in marine policies?
+Are there any other clauses in marine policies?
+Are there any other clauses in marine policies?
+
+manner 举止
+manner manner manner manner manner 
+manner manner manner manner manner 
+manner manner manner manner manner 
+manner manner manner manner manner 
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+
+mainstream 主流
+mainstream mainstream mainstream mainstream
+mainstream mainstream mainstream mainstream
+mainstream mainstream mainstream mainstream
+mainstream mainstream mainstream mainstream
+He felt that he was entering the American mainstream.
+He felt that he was entering the American mainstream.
+He felt that he was entering the American mainstream.
+He felt that he was entering the American mainstream.
+He felt that he was entering the American mainstream.
+
+loyal 忠诚的
+loyal loyal loyal loyal loyal
+loyal loyal loyal loyal loyal
+loyal loyal loyal loyal loyal
+loyal loyal loyal loyal loyal
+The soldiers are loyal to their country.
+The soldiers are loyal to their country.
+The soldiers are loyal to their country.
+The soldiers are loyal to their country.
+The soldiers are loyal to their country.
