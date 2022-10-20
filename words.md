@@ -12207,6 +12207,16 @@ industry industry industry industry industry
 industry industry industry industry industry
 industry industry industry industry industry
 industry industry industry industry industry
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
 It should be something our whole industry adopts.
 It should be something our whole industry adopts.
 It should be something our whole industry adopts.
@@ -12383,6 +12393,16 @@ mature mature mature mature mature
 Wine and judgment mature with age.
 Wine and judgment mature with age.
 Wine and judgment mature with age.
+Wine and jedgment mature with age.
+Wine and jedgment mature with age.
+
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
 Wine and judgment mature with age.
 Wine and judgment mature with age.
 
@@ -12439,3 +12459,142 @@ The soldiers are loyal to their country.
 The soldiers are loyal to their country.
 The soldiers are loyal to their country.
 The soldiers are loyal to their country.
+
+nevertheless 然而
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+Nevertheless, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+Neverthelese, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+
+pension 退休金
+pension pension pension pension pension
+pension pension pension pension pension
+pension pension pension pension pension
+pension pension pension pension pension
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+
+pension pension pension pension pension
+pension pension pension pension pension
+pension pension pension pension pension
+pension pension pension pension pension
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+She went to the post office to draw her pension.
+
+passive 消极的
+passive passive passive passive passive
+passive passive passive passive passive
+passive passive passive passive passive
+passive passive passive passive passive
+He played a passive role in the relationship.
+He played a passive role in the realtionship.
+He played a passive role in the relationship.
+He played a passive role in the relationship.
+He played a passive role in the relationship.
+
+passive passive passive passive passive paasive 
+passive passive passive passive passive passive
+passive passive passive passive passive passive
+passive passive passive passive passive passive
+He played a passive role in the relationship.
+He played a passive role in the relationship.
+He played a passive role in the relationship.
+He played a passive role in the relationship.
+He played a passive role in the relationship.
+
+outward 向外
+outward outward outward outward outward
+outward outward outward outward outward
+outward outward outward outward outward
+outward outward outward outward outward
+The two ends must be bent outward.
+The two ends must be bent outward.
+The two ends must be bent outward.
+The two ends must be bent outward.
+The two ends must be bent outward.
+
+outward outward outward outward outward
+outward outward outward outward outward
+outward outward outward outward outward
+outward outward outward outward outward
+The two ends must be bent outward.
+The two ends must be bent outward.
+The two ends must be bent outward.
+The two ends must be bent outward.
+The two ends must be bent outward.
+
+offense 进攻
+offense offense offense offense offense 
+offense offense offense offense offense
+offense offense offense offense offense
+offense offense offense offense offense
+Offense is the best defense.
+Offense is the best defense.
+Offense is the best defense.
+Offense is the best defense.
+Offense is the best defense.
+
+offense offense offense offense offense
+offense offense offense offense offense
+offense offense offense offense offense
+offense offense offense offense offense
+Offense is the best defense.
+Offense is the best defense.
+Offense is the best defense.
+Offense is the best defense.
+Offense is the best defense.
+
+occurrence 发生
+occurrence occurrence occurrence occurrence occurrence
+occurrence occurrence occurrence occurrence occurrence
+occurrence occurrence occurrence occurrence occurrence
+occurrence occurrence occurrence occurrence occurrence
+Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
+Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
+Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
+Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
+Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
+
+numerous 众多的
+numerous numerous numerous numerous numerous 
+numerous numerous numerous numerous numerous
+numerous numerous numerous numerous numeorus
+numerous numerous numerous numerous numerous
+The doctors gave numerous examples of patients being explelled from hospital.
+The doctors gave numerous examples of patinets being explalled from hospital.
+The doctors gave numerous examples of patinets being explalled from hospital.
+The doctors gave numerous examples of patinets being explalled from hospital.
+The doctors gave numerous examples of patinets being explalled from hospital.
+
+nasty 极度的
+nasty nasty nasty nasty nasty
+nasty nasty nasty nasty nasty
+nasty nasty nasty nasty nasty
+nasty nasty nasty nasty nasty
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+
+namely 也就是
+namely namely namely namely namely 
+namely namely namely namely namely
+namely namely namely namely namely
+namely namely namely namely namely
+One group of poeple seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
