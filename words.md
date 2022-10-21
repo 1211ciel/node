@@ -12290,6 +12290,16 @@ It was one of those ideas that change the course of history.
 It was one of those ideas that change the course of history.
 
 career 职业
+career career career career career
+career career career career career
+career career career career career
+career career career career career
+Young as I am,I already know what career I want to follow.
+Young as I am,I already konw what career I want to follow.
+Young as I am,I already konw what career I want to follow.
+Young as I am,I already konw what career I want to follow.
+Young as I am,I already konw what career I want to follow.
+
 career career career career career 
 career career career career career
 career career career career career
@@ -12393,6 +12403,26 @@ mature mature mature mature mature
 Wine and judgment mature with age.
 Wine and judgment mature with age.
 Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
 Wine and jedgment mature with age.
 Wine and jedgment mature with age.
 
@@ -12428,6 +12458,16 @@ Are there any other clauses in marine policies?
 Are there any other clauses in marine policies?
 
 manner 举止
+manner manner manner manner manner
+manner manner manner manner manner
+manner manner manner manner manner
+manner manner manner manner manner
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+The judge had been impressed by his manner.
+
 manner manner manner manner manner 
 manner manner manner manner manner 
 manner manner manner manner manner 
@@ -12461,6 +12501,26 @@ The soldiers are loyal to their country.
 The soldiers are loyal to their country.
 
 nevertheless 然而
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+Nevertheless, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+Nevertheless, the group took largely the same approach it did in 1999.
+
 nevertheless nevertheless nevertheless nevertheless nevertheless
 nevertheless nevertheless nevertheless nevertheless nevertheless
 nevertheless nevertheless nevertheless nevertheless nevertheless
@@ -12567,15 +12627,25 @@ Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
 Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
 
 numerous 众多的
-numerous numerous numerous numerous numerous 
 numerous numerous numerous numerous numerous
-numerous numerous numerous numerous numeorus
 numerous numerous numerous numerous numerous
-The doctors gave numerous examples of patients being explelled from hospital.
-The doctors gave numerous examples of patinets being explalled from hospital.
-The doctors gave numerous examples of patinets being explalled from hospital.
-The doctors gave numerous examples of patinets being explalled from hospital.
-The doctors gave numerous examples of patinets being explalled from hospital.
+numerous numerous numerous numerous numerous
+numerous numerous numerous numerous numerous
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+
+numerous numerous numerous numerous numerous
+numerous numerous numerous numerous numerous
+numerous numerous numerous numerous numerous
+numerous numerous numerous numerous numerous
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expelled from hospital.
 
 nasty 极度的
 nasty nasty nasty nasty nasty
@@ -12589,6 +12659,16 @@ He had a nasty moment when he thought he'd lost his passport.
 He had a nasty moment when he thought he'd lost his passport.
 
 namely 也就是
+namely namely namely namely namely
+namely namely namely namely namely
+namely namely namely namely namely
+namely namely namely namely namely
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+One group of people seems to be forgotten,namely pensioner.
+
 namely namely namely namely namely 
 namely namely namely namely namely
 namely namely namely namely namely
@@ -12598,3 +12678,151 @@ One group of people seems to be forgotten,namely pensioner.
 One group of people seems to be forgotten,namely pensioner.
 One group of people seems to be forgotten,namely pensioner.
 One group of people seems to be forgotten,namely pensioner.
+
+radical 激进的
+radical radical radical radical radical
+radical radical radical radical radical
+radical radical radical radical radical
+radical radical radical radical radical
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+
+radical radical radical radical radical
+radical radical radical radical radical
+radical radical radical radical radical
+radical radical radical radical radical
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+The most radical will become a conservative on the day after the revolution.
+
+quote 引文
+quote quote quote quote quote
+quote quote quote quote quote
+quote quote quote quote quote
+quote quote quote quote quote
+She quoted from a newspaper artical.
+She quoted from a newspaper artical.
+She quoted from a newspaper artical.
+She quoted from a newspaper artical.
+She quoted from a newspaper artical.
+
+qualify 达到标准
+qualify qualify qualify qualify qualify
+qualify qualify qualify qualify qualify
+qualify qualify qualify qualify qualify
+qualify qualify qualify qualify qualify
+These merit scholarships can be renewed as long as the recipients continue to qualify.
+These merit scholarships can be renewed as long as the recipients continue to qualify.
+These merit scholarships can be renewed as long as the recipients continue to qualify.
+These merit scholarships can be renewed as long as the recipients continue to qualify.
+These merit scholarships can be renewed as long as the recipients continue to qualify.
+
+psychologist 心理学家
+psychologist psychologist psychologist psychologist psychologist
+psychologist psychologist psychologist psychologist psychologist
+psychologist psychologist psychologist psychologist psychologist
+psychologist psychologist psychologist psychologist psychologist
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+
+psychologist psychologist psychologist psychologist psychologist
+psychologist psychologist psychologist psychologist psychologist
+psychologist psychologist psychologist psychologist psychologist
+psychologist psychologist psychologist psychologist psychologist
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+
+psychologist pyschologist pyschologist pyschologist pyschologist
+psychologist pyschologist pyschologist pyschologist pyschologist
+psychologist pyschologist pyschologist pyschologist pyschologist
+psychologist pyschologist pyschologist pyschologist pyschologist
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+She was referred to a psychologist.
+
+provided 假如
+provided provided provided provided provided
+provided provided provided provided provided
+provided provided provided provided provided
+provided provided provided provided provided
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+
+provided provided provided provided provided
+provided provided provided provided provided
+provided provided provided provided provided
+provided provided provided provided provided
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+
+protest 抗议
+protest protest protest protest protest
+protest protest protest protest protest
+protest protest protest protest protest
+protest protest protest protest protest
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+
+promotion 提升
+promotion promotion promotion promotion promotion
+promotion promotion promotion promotion promotion
+promotion promotion promotion promotion promotion
+promotion promotion promotion promotion promotion
+Salary,promotion and plans for the coming year will be discussed at the meeting.Salary,promotion and plans for the coming year will be discussed at the meeting.
+Salary,promotion and plans for the coming year will be discussed at the meeting.
+Salary,promotion and plans for the coming year will be discussed at the meeting.
+Salary,promotion and plans for the coming year will be discussed at the meeting.
+
+phrase 短语
+phrase phrase phraes phrase phrase
+phrase phrase phrase phrase phrase
+phrase phrase phrase phrase phrase
+phrase phrase phrase phrase phrase
+That's exactly the phrase I was looking for myself.
+That's exactly the phrase I was looking for myself.
+That's exactly the phrase I was looking for myself.
+That's exactly the phrase I was looking for myself.
+That's exactly the phrase I was looking for myself.
+
+philosopher 哲学家
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
