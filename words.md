@@ -12217,6 +12217,16 @@ industry industry industry industry industry
 industry industry industry industry industry
 industry industry industry industry industry
 industry industry industry industry industry
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
 It should be something our whole industry adopts.
 It should be something our whole industry adopts.
 It should be something our whole industry adopts.
@@ -12396,6 +12406,26 @@ Don't be mislead into thinking that sicentific research is easy.
 Don't be mislead into thinking that sicentific research is easy.
 
 mature 成熟
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+mature mature mature mature mature
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+Wine and judgment mature with age.
+
 mature mature mature mature mature
 mature mature mature mature mature
 mature mature mature mature mature
@@ -12629,6 +12659,16 @@ Climbing these hills are dangerous due to the frequent occurrence of snowstorms.
 numerous 众多的
 numerous numerous numerous numerous numerous
 numerous numerous numerous numerous numerous
+numouers numerous numerous numerous numerous
+numerous numerous numerous numerous numerous
+The doctors gave numerous examples of patients being expelled from hospital.
+The doctors gave numerous examples of patients being expalled from hospital.
+The doctors gave numerous examples of patients being expalled from hospital.
+The doctors gave numerous examples of patients being expalled from hospital.
+The doctors gave numerous examples of patients being expalled from hospital.
+
+numerous numerous numerous numerous numerous
+numerous numerous numerous numerous numerous
 numerous numerous numerous numerous numerous
 numerous numerous numerous numerous numerous
 The doctors gave numerous examples of patients being expelled from hospital.
@@ -12774,7 +12814,27 @@ I will agree to go provided my expenses are paid.
 I will agree to go provided my expenses are paid.
 I will agree to go provided my expenses are paid.
 
+provided provided provided provided provided
+provided provided provided provided provided
+provided provided provided provided provided
+provided provided provided provided provided
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+I will agree to go provided my expenses are paid.
+
 protest 抗议
+protest protest protest protest protest
+protest protest protest protest protest
+protest protest protest protest protest
+protest protest protest protest protest
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+
 protest protest protest protest protest
 protest protest protest protest protest
 protest protest protest protest protest
@@ -12826,3 +12886,194 @@ Darwin is a great natural philosopher.
 Darwin is a great natural philosopher.
 Darwin is a great natural philosopher.
 Darwin is a great natural philosopher.
+
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+philosopher philosopher philosopher philosopher philosopher
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+Darwin is a great natural philosopher.
+
+relevant 有关的
+relevant relevant relevant relevant relevant
+relevant relevant relevant relevant relevant
+relevant relevant relevant relevant relevant
+relevant relevant relevant relevant relevant
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+
+relevant relevant relevant relevant relevant
+relevant relevant relevant relevant relevant
+relevant relevant relevant relevant relevant
+relevant relevant relevant relevant relevant
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+The issue of peace of the world is relevant to everyone.
+
+reject 拒绝
+reject reject reject reject reject
+reject reject reject reject reject
+reject reject reject reject reject
+reject reject reject reject reject
+He rejected the offer of the position.
+He rejected the offer of the position.
+He rejected the offer of the position.
+He rejected the offer of the position.
+He rejected the offer of the position.
+
+reject reject reject reject reject
+reject reject reject reject reject
+reject reject reject reject reject
+reject reject reject reject reject
+He rejected the offer of the position.
+He rejected the offer of the position.
+He rejected the offer of the position.
+He rejected the offer of the position.
+He rejected the offer of the position.
+
+reinforce 强化
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+
+regarding 关于
+regarding regarding regarding regarding regarding
+regarding regarding regarding regarding regarding
+regarding regarding regarding reagrding regarding
+regarding regarding regarding regarding regarding
+Call me if you have any problem regarding your work.
+Call me if you have any problem regarding your work.
+Call me if you have any problem regarding your work.
+Call me if you have any problem regarding your work.
+Call me if you have any problem regarding your work.
+
+reform 改革
+reform reform reform reform reform 
+reform reform reform reform reform
+reform reform reform reform reform
+reform reform reform reform reform
+Reform and opening-up accord with the aspirations of the Party membership and the people.
+Reform and opening-up accord with the aspirations of the Party membership and the people.
+Reform and opening-up accord with the aspirations of the Party membership and the people.
+Reform and opening-up accord with the aspirations of the Party membership and the people.
+Reform and opening-up accord with the aspirations of the Party membership and the people.
+
+reflection 倒影
+reflection reflection reflection reflection reflection
+reflection reflection reflection reflection reflection
+reflection reflection reflection reflection reflection
+reflection reflection reflection reflection reflection
+We looked at our reflection in the lake.
+We looked at our reflection in the lake.
+We looked at our reflection in the lake.
+We looked at our reflection in the lake.
+We looked at our reflection in the lake.
+
+reflection reflection reflection reflection reflection
+reflection reflection reflection reflection reflection
+reflection reflection reflection reflection reflection
+reflection reflection reflection reflection reflection
+We looked at our reflections in the lake.
+We looked at our reflections in the lake.
+We looked at our reflections in the lake.
+We looked at our reflections in the lake.
+We looked at our reflections in the lake.
+
+recruit 招聘
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recurting well qualified staff.
+We are having difficulties in recurting well qualified staff.
+
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruting well qualified staff.
+
+reap 收割
+reap reap reap reap reap
+reap reap reap reap reap
+reap reap reap reap reap
+reap reap reap reap reap
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+
+relief 宽心
+relief relief relief relief relief
+relief relief relief relief relief
+relief relief relief relief relief
+relief relief relief relief relief
+
+To my relief,he said yes.
+To my relief,he said yes.
+To my relief,he said yes.
+To my relief,he said yes.
+To my relief,he said yes.
+
+reluctant 不情愿的
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
