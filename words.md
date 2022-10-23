@@ -11684,6 +11684,16 @@ They own extensive land by the ocean.
 extensive extensive extensive extensive extensive
 extensive extensive extensive extensive extensive
 extensive extensive extensive extensive extensive
+extensive extensive extensive extensive extensive
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+They own extensive land by the ocean.
+
+extensive extensive extensive extensive extensive
+extensive extensive extensive extensive extensive
+extensive extensive extensive extensive extensive
 extensive extensive extensive extensive exntesive
 They own extensive land by the ocean.
 They own extensive land by the ocean.
@@ -12202,7 +12212,27 @@ Walking is the best exercise for regular physical activity.
 Walking is the best exercise for regular physical activity.
 Walking is the best exercise for regular physical activity.
 
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+physical physical physical physical physical
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+Walking is the best exercise for regular physical activity.
+
 industry 企业
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
+industry industry industry industry industry
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots.
+It should be something our whole industry adpots. 
+
 industry industry industry industry industry
 industry industry industry industry industry
 industry industry industry industry industry
@@ -12545,6 +12575,16 @@ nevertheless nevertheless nevertheless nevertheless nevertheless
 nevertheless nevertheless nevertheless nevertheless nevertheless
 nevertheless nevertheless nevertheless nevertheless nevertheless
 nevertheless nevertheless nevertheless nevertheless nevertheless
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+Nevertheless,the group took largely the same approach it did in 1999.
+
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
+nevertheless nevertheless nevertheless nevertheless nevertheless
 Nevertheless, the group took largely the same approach it did in 1999.
 Nevertheless, the group took largely the same approach it did in 1999.
 Nevertheless, the group took largely the same approach it did in 1999.
@@ -12688,6 +12728,16 @@ The doctors gave numerous examples of patients being expelled from hospital.
 The doctors gave numerous examples of patients being expelled from hospital.
 
 nasty 极度的
+nasty nasty nasty nasty nasty
+nasty nasty nasty nasty nasty
+nasty nasty nasty nasty nasty
+nasty nasty nasty nasty nasty
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+He had a nasty moment when he thought he'd lost his passport.
+
 nasty nasty nasty nasty nasty
 nasty nasty nasty nasty nasty
 nasty nasty nasty nasty nasty
@@ -12845,6 +12895,16 @@ Customers are protesting against higher prices.
 Customers are protesting against higher prices.
 Customers are protesting against higher prices.
 
+protest protest protest protest protest
+protest protest protest protest protest
+protest protest protest protest protest
+protest protest protest protest protest
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+Customers are protesting against higher prices.
+
 promotion 提升
 promotion promotion promotion promotion promotion
 promotion promotion promotion promotion promotion
@@ -12970,6 +13030,16 @@ Vitamin B and C may reinforce men's resistance.
 Vitamin B and C may reinforce men's resistance.
 Vitamin B and C may reinforce men's resistance.
 
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+reinforce reinforce reinforce reinforce reinforce
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+Vitamin B and C may reinforce men's resistance.
+
 regarding 关于
 regarding regarding regarding regarding regarding
 regarding regarding regarding regarding regarding
@@ -13018,23 +13088,53 @@ recruit recruit recruit recruit recruit
 recruit recruit recruit recruit recruit
 recruit recruit recruit recruit recruit
 recruit recruit recruit recruit recruit
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recurting well qualified staff.
-We are having difficulties in recurting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
 
 recruit recruit recruit recruit recruit
 recruit recruit recruit recruit recruit
 recruit recruit recruit recruit recruit
 recruit recruit recruit recruit recruit
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recruting well qualified staff.
-We are having difficulties in recruting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+recruit recruit recruit recruit recruit
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
+We are having difficulties in recruiting well qualified staff.
 
 reap 收割
+reap reap raep reap reap
+reap reap reap reap reap
+reap reap reap reap reap
+reap reap reap reap reap
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+As you sow,so shall you reap.
+
 reap reap reap reap reap
 reap reap reap reap reap
 reap reap reap reap reap
@@ -13077,3 +13177,183 @@ Many banks in America are reluctant to loan money.
 Many banks in America are reluctant to loan money.
 Many banks in America are reluctant to loan money.
 Many banks in America are reluctant to loan money.
+
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+reluctant reluctant reluctant reluctant reluctant
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+Many banks in America are reluctant to loan money.
+
+sake 理由
+sake sake sake sake sake
+sake sake sake sake sake
+sake sake sake sake sake
+sake sake sake sake sake
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+
+sake sake sake sake sake
+sake sake sake sake sake
+sake sake sake sake sake
+sake sake sake sake sake
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+He moved to the country for the sake of his wife's health.
+
+rust 铁锈
+rust rust rust rust rust
+rust rust rust rust rust
+rust rust rust rust rust
+rust rust rust rust rust
+Rest breeds rust.
+Rest breeds rust.
+Rest breeds rust.
+Rest breeds rust.
+Rest breeds rust.
+
+risky 有风险的
+risky risky risky risky risky
+risky risky risky risky risky
+risky risky risky risky risky
+risky risky risky risky risky 
+risky risky risky risky risky
+The students had to choose between safe bets and risky gambles.
+The students had to choose between safe bets and risky gambles.
+The students had to choose between safe bets and risky gambles.
+The students had to choose between safe bets and risky gambles.
+The students had to choose between safe bets and risky gambles.
+
+rigid 顽固的
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+rigid rigid rigid rigid rigid
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+He's very rigid in his ideas.
+
+retain 保留
+retain retain retain retain retain
+retain retain retain retain retain
+retain retain retain retain retain
+retain retain retain retain retain
+Retain your original receipt as proof of purchase.
+Retain your original receipt as proof of purchase.
+Retain your original receipt as proof of purchase.
+Retain your original receipt as proof of purchase.
+Retain your original receipt as proof of purchase.
+
+restore 修复
+restore restore restore restore restore
+restore restore restore restore restore
+restore restore restore restore restore
+restore restore restore restore restore
+Apologies serve to restore relationship closeness.
+Apologies serve to restore relationship closeness.
+Apologies serve to restore relationship closeness.
+Apologies serve to restore relationship choseness.
+Apologies serve to restore relationship choseness.
+
+resort 度假胜地
+resort resort resort resort resort
+resort resort resort resort resort 
+resort resort resort resort resort
+resort resort resort resort resort
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+
+resort resort resort resort resort
+resort resort resort resort resort
+resort resort resort resort resort
+resort resort resort resort resort
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+Meetings at resorts are suddenly unacceptable.
+
+resistance 反对
+resistance resistance resistance resistance resistance
+resistance resistance resistance resistance resistance
+resistance resistance resistance resistance resistance
+resistance resistance resistance resistance resistance
+There has been a lot of resistance of this new law.
+There has been a lot of resistance of this new law.
+There has been a lot of resistance of this new law.
+There has been a lot of resistance of this new law.
+There has been a lot of resistance of this new law.
+
+resistance resistance resistance resistance resistance
+resistance resistance resistance resistance resistance
+resistance resistance resistance resistance resistance
+resistance resistance resistance resistance resistance
+There has been a lot of resistance to this new law.
+There has been a lot of resistance to this new law.
+There has been a lot of resistance to this new law.
+There has been a lot of resistance to this new law.
+There has been a lot of resistance to this new law.
+
+requirement 必需品
+requirement requirement requirement requirement requirement
+requirement requirement requirement requirement requirement
+requirement requirement requirement requirement requirement
+requirement requirement requirement requirement requirement 
+Its products met all legal requirements.
+Its products met all legal requirements.
+Its products met all legal requirements.
+Its products met all legal requirements.
+Its products met all legal requirements.
+
+remark 评论
+remark remark remark remark remark 
+remark remark remark remark remark
+remark remark remark remark remark
+remark remark remark remark remark
+Everyone remarked on his resignation.
+Everyone remarked on his resignation.
+Everyone remarked on his resignation.
+Everyone remarked on his resignation.
+Everyone remarked on his resignation.

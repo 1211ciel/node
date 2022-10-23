@@ -93,3 +93,69 @@ Who is performing at the music festival this weekend?
 Who is performing at the music festival this weekend?
 Who is performing at the music festival this weekend?
 Who is performing at the music festival this weekend?
+
+Technology is always changing!
+Technology is always changing!
+Technology is always changing!
+Technology is always changing!
+Technology is always changing!
+
+Technology is always changing!
+Technology is always changing!
+Technology is always changing!
+Technology is always changing!
+Technology is always changing!
+
+Can we use this tablet to take pictures?
+Can we use this tablet to take pictures?
+Can we use this tablet to take pictures?
+Can we use this tablet to take pictures?
+Can we use this tablet to take pictures?
+
+Can you help me search for a podcast in the app store?
+Can you help me search for a podcast in the app store?
+Can you help me search for a podcast in the app store?
+Can you help me search for a podcast in the app store?
+Can you help me search for a podcast in the app store?
+
+Here's a podcast about technology.
+Here's a podcast about technology.
+Here's a podcast about technology.
+Here's a podcast about technology.
+Here's a podcast about technology.
+
+Here's a podcast about technology.
+Here's a podcast about technology.
+Here's a podcast about technology.
+Here's a podcast about technology.
+
+
+Which app did you use to learn how to play the piano?
+Which app did you use to learn how to play the piano?
+Which app did you use to learn how to play the piano?
+Which app did you use to learn how to play the piano?
+Which app did you use to laern how to play the piano?
+
+Grandpa doesn't know how to see your new post.
+Grandpa doesn't know how to see your new post.
+Grandpa doesn't konw how to see your new post.
+Grandpa doesn't know how to see your new post.
+Grandpa doesn't know how to see your new post.
+
+I only post photos of my cat on social media.
+I only post photos of my cat on social media.
+I only post photos of my cat on social media.
+I only post photos of my cat on social media.
+I only post photos of my cat on social media.
+
+Let's contact each other by video call when you're in Italy.
+Let's contact each other by video call when you're in Italy.
+Let's contact each other by video call when you're in Italy.
+Let's contact each other by video call when you're in Italy.
+Let's contact each other by video call when you're in Italy.
+
+What's the password to your phone,Dad?
+What's the password to your phone,Dad?
+What's the password to your phone,Dad?
+What's the password to your phone,Dad?
+What's the password to your phone,Dad?
