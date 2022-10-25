@@ -159,3 +159,93 @@ What's the password to your phone,Dad?
 What's the password to your phone,Dad?
 What's the password to your phone,Dad?
 What's the password to your phone,Dad?
+
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+Why didn't we see zebras on the safari?
+
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+You can post videos and photos on social media?
+
+He never used to love adventures,but now he does.
+He never used to love adventures,but now he does.
+He never used to love adventures,but now he does.
+He never used to love adventures,but now he does.
+He never used to love adventures,but now he does.
+
+Was Anna's performance longer than Ben's?
+Was Anna's performance longer than Ben's?
+Was Anna's performance longer than Ben's?
+Was Anna's performance longer than Ben's?
+Was Anna's performance longer than Ben's?
+
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+If you don't want to get hurt,stay in the jeep.
+
+Will we get wet?
+Will we get wet?
+Will we get wet?
+Will we get wet?
+Will we get wet?
+
+Didn't she use to work as a journalist in Africa?
+Didn't she use to work as a journalist in Africa?
+Didn't she use to work as a journalist in Africa?
+Didn't she use to work as a journalist in Africa?
+Didn't she use to work as a journalist in Africa?
+
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
+Can I use this tablet to make phone calls?
