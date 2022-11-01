@@ -13367,3 +13367,97 @@ Everyone remarked on his resignation.
 Everyone remarked on his resignation.
 Everyone remarked on his resignation.
 Everyone remarked on his resignation.
+
+slogan 口号
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+advertising slogan,advertising slogan,advertising slogan,advertising slogan,advertising slogan
+
+slip 下降
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+
+slap 拍
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
+
+scratch 起跑线
+start from scratch,start from scratch,start from scratch,start from scratch,start from scratch
+start from scratch,start from scratch,start from scratch,start from scratch,start from scratch
+start from scratch,start from scratch,start from scratch,start from scratch,start from scratch
+start from scratch,start from scratch,start from scratch,start from scratch,start from scratch
+
+satisfy 满足
+satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions
+satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions
+satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions,satisfy one of the conditions
+satisfy one of the conditions,satisfy one of the conditions,satisfy one of the condisions,satisfy one of the conditions,satisfy one of the conditions
+
+secure 获得
+secure a good seat,secure a good seat,secure a good seat,secure a good seat,secure a good seat
+secure a good seat,secure a good seat,secure a good seat,secure a good seat,secure a good seat
+secure a good seat,secure a good seat,secure a good seat,secure a good seat,secure a good seat
+secure a good seat,secure a good seat,secure a good seat,secure a good seat,secure a good seat.
+
+surgery 外科手术
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+
+surge 激增
+river surges,river surges,river surges,river surges,river surges
+river surges,river surges,river surges,river surges,river surges
+river surges,river surges,river surges,river surges,river surges
+river surges,river surges,river surges,river surges,river surges
+
+string 用线串
+string along with the others,stirng along with the others,string along with the others,string along with the others,string along with the others
+string along with the others,string along with the others,string along with the others,string along with the others,string along with the others
+string along with the others,string along with the others,string along with the others,string along with the others,string along with the others
+string along with the others,string along with the others,string along with the others,string along with the others,string along with the others
+
+stream 小河
+stream of life,stream of life,stream of life,stream of life,stream of life,stream of life
+stream of life,stream of life,stream of life,stream of life,stream of life,stream of life
+stream of life,stream of life,stream of life,stream of life,stream of life,stream of life
+stream of life,stream of life,stream of life,stream of life,stream of life,stream of life
+
+steel 钢铁
+a man of steel,a man of steel,a man of steel,a man of steel,a man of steel
+a man of steel,a man of steel,a man of steel,a man of steel,a man of steel
+a man of steel,a man of steel,a man of steel,a man of steel,a man of steel
+a man of steel,a man of steel,a man of steel,a man of steel,a man of steel
+
+spray 喷射
+spray the furniture with paint,spray the furniture with paint,spray the furniture with paint,spray the furniture with paint
+spray the furniture with paint,spray the furniture with paint,spray the furniture with paint,spray the furniture with paint
+spray the furniture with paint,spray the furniture with paint,spray the furniture with paint,spray the furniture with paint
+spray the furniture with paint,spray the furniture with paint,spray the furniture with paint,spray the furniture with paint
+
+spouse 配偶
+spouse's name,spouse's name,spouse's name,spouse's name,spouse's name,spouse's name
+spouse's name,spouse's name,spouse's name,spouse's name,spouse's name,spouse's name
+spouse's name,spouse's name,spouse's name,spouse's name,spouse's name,spouse's name
+spouse's name,spouse's name,spouse's name,spouse's name,spouse's name,spouse's name
+
+soul 灵魂
+the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation
+the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation
+the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation
+the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation.
