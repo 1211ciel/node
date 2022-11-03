@@ -4329,19 +4329,6 @@ bomber bomber bomber bomber bomber
 bomber bomber bomber bomber bomber
 This field is big enough for a bomber to sit down safely.
 
-## Mon 10 Jan 2022	
-restore 恢复
-restore restore restore restore restore
-restore restore restore restore restore
-restore restore restore restore restore
-restore restore restore restore restore
-The police must try to restore order.
-
-restore restore restore restore restore
-restore restore restore restore restore
-restore restore restore restore restore
-restore restore restore restore restore
-The police must try to restore order.
 
 wreck 残骸
 wreck wreck wreck wreck wreck
@@ -12780,6 +12767,11 @@ One group of people seems to be forgotten,namely pensioner.
 One group of people seems to be forgotten,namely pensioner.
 
 radical 激进的
+the most radical,the most radical,the most radical,the most radical,the most radical
+the most radical,the most radical,the most radical,the most radical,the most radical
+the most radical,the most radical,the most radical,the most radical,the most radical
+the most radical,the most radical,the most radical,the most radical,the most radical
+
 radical radical radical radical radical
 radical radical radical radical radical
 radical radical radical radical radical
@@ -12890,6 +12882,11 @@ customers are protest,customers are protest,customers are protest,customers are 
 customers are protest,customers are protest,customers are protest,customers are protest,customers are protest
 customers are protest,customers are protest,customers are protest,customers are protest,customers are protest
 
+customers are protest,customers are protest,customers are protest,customers are protest,customers are protest
+customers are protest,customers are protest,customers are protest,customers are protest,customers are protest
+customers are protest,customers are protest,customers are protest,customers are protest,customers are protest
+customers are protest,customers are protest,customers are protest,customers are protest,customers are protest
+
 protest protest protest protest protest
 protest protest protest protest protest
 protest protest protest protest protest
@@ -12942,6 +12939,11 @@ That's exactly the phrase I was looking for myself.
 That's exactly the phrase I was looking for myself.
 
 philosopher 哲学家
+a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher
+a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher
+a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher
+a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher,a great natural philosopher
+
 philosopher philosopher philosopher philosopher philosopher
 philosopher philosopher philosopher philosopher philosopher
 philosopher philosopher philosopher philosopher philosopher
@@ -13299,6 +13301,11 @@ Retain your original receipt as proof of purchase.
 Retain your original receipt as proof of purchase.
 
 restore 修复
+restore relationship,restore relationship,restore relationship,restore relationship,restore relationship,restore relationship
+restore relationship,restore relationship,restore relationship,restore relationship,restore relationship,restore relationship
+restore relationship,restore relationship,restore relationship,restore relationship,restore relationship,restore relationship
+restore relationship,restore relationship,restore relationship,restore relationship,restore relationship,restore relationship
+
 restore restore restore restore restore
 restore restore restore restore restore
 restore restore restore restore restore
@@ -13310,6 +13317,11 @@ Apologies serve to restore relationship choseness.
 Apologies serve to restore relationship choseness.
 
 resort 度假胜地
+meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts
+meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts
+meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts
+meetings at resrots,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts,meetings at resorts
+
 resort resort resort resort resort
 resort resort resort resort resort 
 resort resort resort resort resort
@@ -13390,6 +13402,11 @@ I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
 I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
 I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
 
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+I began to slip,I began to slip,I began to slip,I began to slip,I began to slip
+
 slap 拍
 a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
 a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek,a slap on the cheek
@@ -13430,7 +13447,17 @@ emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergenc
 emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
 emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
 
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+emergency surgery,emergency surgery,emergency surgery,emergency surgery,emergency surgery
+
 surge 激增
+river surges,river surges,river surges,river surges,river surges
+river surges,river surges,river surges,river surges,river surges
+river surges,river surges,river surges,river surges,river surges
+river surges,river surges,river surges,river surges,river surges
+
 river surges,river surges,river surges,river surges,river surges
 river surges,river surges,river surges,river surges,river surges
 river surges,river surges,river surges,river surges,river surges
@@ -13476,5 +13503,4 @@ the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nat
 the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation
 the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation
 the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation,the soul of a nation.
-
 
